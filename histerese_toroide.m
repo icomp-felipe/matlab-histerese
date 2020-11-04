@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%				    UNIVERSIDADE FEDERAL DO AMAZONAS                      %
-%					    FACULDADE DE TECNOLOGIA                           %
+%                   UNIVERSIDADE FEDERAL DO AMAZONAS                      %
+%                       FACULDADE DE TECNOLOGIA                           %
 %                                                                         %
 % Disciplina: Conversão de Energia I (FTE032)                             %
 % Professor : Dr. Alessandro Bezerra Trindade                             %
